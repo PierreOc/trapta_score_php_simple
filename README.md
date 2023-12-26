@@ -2,7 +2,6 @@
 code PHP à installer sur le serveur d'hébergement de diffusion des scores en ligne pour TRAPTA
 cette version fonctionne avec TRAPTACloud_simple: diffusion pour un seul concours à la fois
 
-
 Vous devez avoir un site web personnel qui peut héberger des pages php et les afficher hors du mode TLS (affichage http:// et non https://). Aucune base de données n'est nécessaire.
 
 et copiez les fichiers du repertoire /traptascore dans un répertoire de votre site.
